@@ -59,54 +59,54 @@ The global AI application development and low-code AI platform market is project
 
 ## 💻 Open-Source GitHub Projects
 
-Leading open-source repositories sorted by GitHub star count:
+Leading open-source repositories sorted by GitHub Stars_Count:
 
-1. 🌟 **[Dify](https://github.com/langgenius/dify)** [![GitHub stars](https://img.shields.io/github/stars/langgenius/dify?style=social&color=white)](https://github.com/langgenius/dify/stargazers)  
+1. 🌟 **[Dify](https://github.com/langgenius/dify)** [![GitHub_Stars](https://img.shields.io/github/stars/langgenius/dify?style=social&color=white)](https://github.com/langgenius/dify/stargazers)  
    Open-source LLM application development platform combining an AI workflow studio, RAG pipeline orchestrator, agent management, and model runtime APIs.
 
-2. 🌟 **[Open WebUI](https://github.com/open-webui/open-webui)** [![GitHub stars](https://img.shields.io/github/stars/open-webui/open-webui?style=social&color=white)](https://github.com/open-webui/open-webui/stargazers)  
+2. 🌟 **[Open WebUI](https://github.com/open-webui/open-webui)** [![GitHub_Stars](https://img.shields.io/github/stars/open-webui/open-webui?style=social&color=white)](https://github.com/open-webui/open-webui/stargazers)  
    Extensible, self-hosted AI application interface and web client supporting Ollama, OpenAI-compatible APIs, agent pipelines, RAG, and multi-user access control.
 
-3. 🌟 **[Langflow](https://github.com/langflow-ai/langflow)** [![GitHub stars](https://img.shields.io/github/stars/langflow-ai/langflow?style=social&color=white)](https://github.com/langflow-ai/langflow/stargazers)  
+3. 🌟 **[Langflow](https://github.com/langflow-ai/langflow)** [![GitHub_Stars](https://img.shields.io/github/stars/langflow-ai/langflow?style=social&color=white)](https://github.com/langflow-ai/langflow/stargazers)  
    Visual framework for building multi-agent systems and retrieval-augmented generation (RAG) graphs with Python-native extensibility.
 
-4. 🌟 **[MetaGPT](https://github.com/FoundationAgents/MetaGPT)** [![GitHub stars](https://img.shields.io/github/stars/FoundationAgents/MetaGPT?style=social&color=white)](https://github.com/FoundationAgents/MetaGPT/stargazers)  
+4. 🌟 **[MetaGPT](https://github.com/FoundationAgents/MetaGPT)** [![GitHub_Stars](https://img.shields.io/github/stars/FoundationAgents/MetaGPT?style=social&color=white)](https://github.com/FoundationAgents/MetaGPT/stargazers)  
    Multi-agent collaborative framework that assigns specialized software company roles (Product Managers, Architects, Engineers, QA) to LLMs to generate complete software projects.
 
-5. 🌟 **[AutoGen](https://github.com/microsoft/autogen)** [![GitHub stars](https://img.shields.io/github/stars/microsoft/autogen?style=social&color=white)](https://github.com/microsoft/autogen/stargazers)  
+5. 🌟 **[AutoGen](https://github.com/microsoft/autogen)** [![GitHub_Stars](https://img.shields.io/github/stars/microsoft/autogen?style=social&color=white)](https://github.com/microsoft/autogen/stargazers)  
    Microsoft's framework for building multi-agent conversational systems capable of acting cooperatively or autonomously with humans in the loop.
 
-6. 🌟 **[CrewAI](https://github.com/crewAIInc/crewAI)** [![GitHub stars](https://img.shields.io/github/stars/crewAIInc/crewAI?style=social&color=white)](https://github.com/crewAIInc/crewAI/stargazers)  
+6. 🌟 **[CrewAI](https://github.com/crewAIInc/crewAI)** [![GitHub_Stars](https://img.shields.io/github/stars/crewAIInc/crewAI?style=social&color=white)](https://github.com/crewAIInc/crewAI/stargazers)  
    Framework for orchestrating role-playing autonomous AI agents that collaborate to execute complex, multi-step business and software engineering tasks.
 
-7. 🌟 **[Flowise](https://github.com/FlowiseAI/Flowise)** [![GitHub stars](https://img.shields.io/github/stars/FlowiseAI/Flowise?style=social&color=white)](https://github.com/FlowiseAI/Flowise/stargazers)  
+7. 🌟 **[Flowise](https://github.com/FlowiseAI/Flowise)** [![GitHub_Stars](https://img.shields.io/github/stars/FlowiseAI/Flowise?style=social&color=white)](https://github.com/FlowiseAI/Flowise/stargazers)  
    Drag-and-drop UI tool designed to build customized LLM flows, conversational chatbots, autonomous agents, and vector memory retrieval pipelines.
 
-8. 🌟 **[LlamaIndex](https://github.com/run-llama/llama_index)** [![GitHub stars](https://img.shields.io/github/stars/run-llama/llama_index?style=social&color=white)](https://github.com/run-llama/llama_index/stargazers)  
+8. 🌟 **[LlamaIndex](https://github.com/run-llama/llama_index)** [![GitHub_Stars](https://img.shields.io/github/stars/run-llama/llama_index?style=social&color=white)](https://github.com/run-llama/llama_index/stargazers)  
    Data framework for context-augmented LLM applications, offering production indexing, ingestion pipelines, advanced RAG algorithms, and structured workflows.
 
-9. 🌟 **[LangGraph](https://github.com/langchain-ai/langgraph)** [![GitHub stars](https://img.shields.io/github/stars/langchain-ai/langgraph?style=social&color=white)](https://github.com/langchain-ai/langgraph/stargazers)  
+9. 🌟 **[LangGraph](https://github.com/langchain-ai/langgraph)** [![GitHub_Stars](https://img.shields.io/github/stars/langchain-ai/langgraph?style=social&color=white)](https://github.com/langchain-ai/langgraph/stargazers)  
    Cyclic graph orchestration library built by LangChain for stateful, multi-actor LLM applications with human-in-the-loop validation, persistence, and fault tolerance.
 
-10. 🌟 **[Khoj](https://github.com/khoj-ai/khoj)** [![GitHub stars](https://img.shields.io/github/stars/khoj-ai/khoj?style=social&color=white)](https://github.com/khoj-ai/khoj/stargazers)  
+10. 🌟 **[Khoj](https://github.com/khoj-ai/khoj)** [![GitHub_Stars](https://img.shields.io/github/stars/khoj-ai/khoj?style=social&color=white)](https://github.com/khoj-ai/khoj/stargazers)  
     Open-source AI second brain and personal assistant application with native multimodal search, local document indexing, voice support, and custom automations.
 
-11. 🌟 **[Haystack](https://github.com/deepset-ai/haystack)** [![GitHub stars](https://img.shields.io/github/stars/deepset-ai/haystack?style=social&color=white)](https://github.com/deepset-ai/haystack/stargazers)  
+11. 🌟 **[Haystack](https://github.com/deepset-ai/haystack)** [![GitHub_Stars](https://img.shields.io/github/stars/deepset-ai/haystack?style=social&color=white)](https://github.com/deepset-ai/haystack/stargazers)  
     Modular, production-ready Python framework by deepset for building customizable LLM search systems, RAG pipelines, and conversational agents.
 
-12. 🌟 **[Activepieces](https://github.com/activepieces/activepieces)** [![GitHub stars](https://img.shields.io/github/stars/activepieces/activepieces?style=social&color=white)](https://github.com/activepieces/activepieces/stargazers)  
+12. 🌟 **[Activepieces](https://github.com/activepieces/activepieces)** [![GitHub_Stars](https://img.shields.io/github/stars/activepieces/activepieces?style=social&color=white)](https://github.com/activepieces/activepieces/stargazers)  
     Open-source, self-hosted business and AI workflow automation engine featuring pre-built enterprise connectors, agent triggers, and visual logic builders.
 
-13. 🌟 **[CAMEL](https://github.com/camel-ai/camel)** [![GitHub stars](https://img.shields.io/github/stars/camel-ai/camel?style=social&color=white)](https://github.com/camel-ai/camel/stargazers)  
+13. 🌟 **[CAMEL](https://github.com/camel-ai/camel)** [![GitHub_Stars](https://img.shields.io/github/stars/camel-ai/camel?style=social&color=white)](https://github.com/camel-ai/camel/stargazers)  
     Pioneering communicative agent framework for exploring cooperative behaviors and scalable multi-agent role-playing simulations.
 
-14. 🌟 **[SuperAGI](https://github.com/TransformerOptimus/SuperAGI)** [![GitHub stars](https://img.shields.io/github/stars/TransformerOptimus/SuperAGI?style=social&color=white)](https://github.com/TransformerOptimus/SuperAGI/stargazers)  
+14. 🌟 **[SuperAGI](https://github.com/TransformerOptimus/SuperAGI)** [![GitHub_Stars](https://img.shields.io/github/stars/TransformerOptimus/SuperAGI?style=social&color=white)](https://github.com/TransformerOptimus/SuperAGI/stargazers)  
     Open-source autonomous AI agent infrastructure framework facilitating agent provisioning, performance telemetry, action consoles, and modular tool integrations.
 
-15. 🌟 **[Botpress](https://github.com/botpress/botpress)** [![GitHub stars](https://img.shields.io/github/stars/botpress/botpress?style=social&color=white)](https://github.com/botpress/botpress/stargazers)  
+15. 🌟 **[Botpress](https://github.com/botpress/botpress)** [![GitHub_Stars](https://img.shields.io/github/stars/botpress/botpress?style=social&color=white)](https://github.com/botpress/botpress/stargazers)  
     Developer-centric conversational AI engine powering dynamic chatbot creation, custom integrations, natural language processing, and stateful dialogues.
 
-16. 🌟 **[Rivet](https://github.com/Ironclad/rivet)** [![GitHub stars](https://img.shields.io/github/stars/Ironclad/rivet?style=social&color=white)](https://github.com/Ironclad/rivet/stargazers)  
+16. 🌟 **[Rivet](https://github.com/Ironclad/rivet)** [![GitHub_Stars](https://img.shields.io/github/stars/Ironclad/rivet?style=social&color=white)](https://github.com/Ironclad/rivet/stargazers)  
     Open-source visual AI programming environment and TypeScript library for building, debugging, and running complex LLM prompt and computational graphs.
 
 ---
